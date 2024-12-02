@@ -1,0 +1,5 @@
+2024-11-28 02:27:59 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - Starting TwitterToKafkaServiceApp on lizhuolundeMBP with PID 43800 (/Users/lizhuolun/vscode_work/java/microservice-demo/twitter-to-kafka-service/target/classes started by lizhuolun in /Users/lizhuolun/vscode_work/java/microservice-demo)
+2024-11-28 02:27:59 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - No active profile set, falling back to default profiles: default
+2024-11-28 02:28:00 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - Started TwitterToKafkaServiceApp in 0.331 seconds (JVM running for 0.543)
+2024-11-28 02:28:00 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - APP starts...
+2024-11-28 02:28:00 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - [Java, Microservices, Spring, Kafka, Elasticsearch]
