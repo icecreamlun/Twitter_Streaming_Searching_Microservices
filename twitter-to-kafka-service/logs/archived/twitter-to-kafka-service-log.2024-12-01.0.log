@@ -1,0 +1,10 @@
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - Starting TwitterToKafkaServiceApp on lizhuolundeMBP with PID 78864 (/Users/lizhuolun/vscode_work/java/microservice-demo/twitter-to-kafka-service/target/classes started by lizhuolun in /Users/lizhuolun/vscode_work/java/microservice-demo)
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - No active profile set, falling back to default profiles: default
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - Started TwitterToKafkaServiceApp in 0.376 seconds (JVM running for 0.601)
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - APP starts...
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApp - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2024-12-01 14:44:41 [main] INFO  c.m.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2024-12-01 14:44:41 [pool-2-thread-1] INFO  c.m.t.t.k.s.l.TwitterToKafkaListener - Twitter status with text Maecenas sit libero Fusce Lorem malesuada magna Spring porttitor sed sed lectus magna
+2024-12-01 14:44:51 [pool-2-thread-1] INFO  c.m.t.t.k.s.l.TwitterToKafkaListener - Twitter status with text amet amet sit lectus amet Maecenas sit adipiscing Java malesuada Fusce massa libero Maecenas pulvinar Lorem
+2024-12-01 14:45:01 [pool-2-thread-1] INFO  c.m.t.t.k.s.l.TwitterToKafkaListener - Twitter status with text ipsum congue Lorem pulvinar malesuada ultricies Lorem Maecenas Microservices consectetuer sit malesuada purus ultricies Maecenas pulvinar
+2024-12-01 14:45:11 [pool-2-thread-1] INFO  c.m.t.t.k.s.l.TwitterToKafkaListener - Twitter status with text magna pulvinar congue dolor libero sed dolor Lorem Java pulvinar libero sit adipiscing sit massa
