@@ -8,10 +8,10 @@ spring:
           uri: https://github.com/agelenler/spring-cloud-config-server-repository
           default-label: main
           username: icecreamlun
-          password: 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
+          password: '{cipher}ee90f0c829d401de07161b8ef77444d8fc9f451465fc8f199ac1bf8515814b886f53675beaed17503f64986d6b1d82a32bce1bc9b932e663010dcc57a0ea868d'
           clone-on-start: true
     fail-fast: true
   security:
     user:
       name: spring_cloud_user
-      password: '{cipher}c0d85293cb01a46b3b629a12e5620f4e9d00d4ede8bdf248cf5b83e23f4536501e4b34a8d56b7a34fcee17aa01d05330'
+      password: '{cipher}a5bdacf2b9f6e06cfaa30d01b65800e24ff717e7a273c4c50dc0c0d70645c2aa1134ba6f2f7d658a2467440edce8c71d'
