@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/agelenler/spring-cloud-config-server-repository
+          uri: https://github.com/icecreamlun/Twitter_Streaming_Searching_Microservices/tree/main/config-server-repository
           default-label: main
           username: icecreamlun
           password: '{cipher}ee90f0c829d401de07161b8ef77444d8fc9f451465fc8f199ac1bf8515814b886f53675beaed17503f64986d6b1d82a32bce1bc9b932e663010dcc57a0ea868d'
