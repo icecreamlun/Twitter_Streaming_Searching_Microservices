@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: "file:///Users/lizhuolun/Downloads/microservices-demo (10)/config-server-repository"
+          uri: "file:///Users/lizhuolun/nyu/java/final/Twitter_Streaming_Searching_Microservices/config-server-repository"
           clone-on-start: true
     fail-fast: true
