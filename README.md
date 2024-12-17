@@ -159,6 +159,14 @@ The **Elastic Query Service** is designed to provide an interface for querying t
 - The **elastic-query-client module** interacts with Elasticsearch to fetch relevant data.
 - The response is enriched with **HATEOAS** links and returned to the client.
 
+## How to Run
+- First docker build the whole project
+- Then use docker-compose up to build all the images
+- In terms of the Config server online, you could change the path "file:///Users/lizhuolun/nyu/java/final/Twitter_Streaming_Searching_Microservices/config-server-repository" to your own path, in this version, I use my local file for fast running, if you want to run it in cloud server, you will need to cipher your own github token
+- Run Config Server
+- Run Twitter-to-Kafka Server
+- Run Kafka-to-elastic Server
+- Use Postman to send get request to localhost:9200/twitter-index/_search, and you could see the results
 
 
 ## Conclusion
